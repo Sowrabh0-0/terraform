@@ -109,6 +109,7 @@ Run these commands from this module directory:
 terraform init
 terraform fmt -check
 terraform validate
+terraform test
 ```
 
 ## Notes
